@@ -1,9 +1,4 @@
 <?php
-
-?>
-
-
-<?php
 require 'crudUser.php';
 $users = getUsers();
 
